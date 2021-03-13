@@ -1,0 +1,9 @@
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\bin\Debug\DB.MongoDB.dll
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\bin\Debug\DB.MongoDB.pdb
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\bin\Debug\DB.Interface.dll
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\bin\Debug\DB.Interface.pdb
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\obj\Debug\DB.MongoDB.csprojAssemblyReference.cache
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\obj\Debug\DB.MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\obj\Debug\DB.MongoDB.csproj.CopyComplete
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\obj\Debug\DB.MongoDB.dll
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.MongoDB\obj\Debug\DB.MongoDB.pdb

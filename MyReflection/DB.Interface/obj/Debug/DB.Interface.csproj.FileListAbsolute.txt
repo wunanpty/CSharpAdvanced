@@ -1,0 +1,6 @@
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.Interface\bin\Debug\DB.Interface.dll
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.Interface\bin\Debug\DB.Interface.pdb
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.Interface\obj\Debug\DB.Interface.csprojAssemblyReference.cache
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.Interface\obj\Debug\DB.Interface.csproj.CoreCompileInputs.cache
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.Interface\obj\Debug\DB.Interface.dll
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.Interface\obj\Debug\DB.Interface.pdb
