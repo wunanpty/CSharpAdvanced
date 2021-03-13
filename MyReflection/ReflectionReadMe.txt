@@ -1,0 +1,1 @@
+Factory + Reflection make application configurable.
