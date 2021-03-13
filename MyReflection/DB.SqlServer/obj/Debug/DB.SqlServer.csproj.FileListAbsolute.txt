@@ -3,3 +3,7 @@ C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\bin\Debug\DB.Sql
 C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\obj\Debug\DB.SqlServer.csproj.CoreCompileInputs.cache
 C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\obj\Debug\DB.SqlServer.dll
 C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\obj\Debug\DB.SqlServer.pdb
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\bin\Debug\DB.Interface.dll
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\bin\Debug\DB.Interface.pdb
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\obj\Debug\DB.SqlServer.csprojAssemblyReference.cache
+C:\Users\wunan\Desktop\C_Sharp\MyCode\MyReflection\DB.SqlServer\obj\Debug\DB.SqlServer.csproj.CopyComplete
