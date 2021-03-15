@@ -4,4 +4,5 @@
 - Factory + Reflection + Config enables program can be configurable and extended.
 - Reflection can invoke a private constructor. 
 - Reflection can invoke the different constructors.
+- Reflection can create an instance of a generic type.
 
