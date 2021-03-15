@@ -5,4 +5,5 @@
 - Reflection can invoke a private constructor. 
 - Reflection can invoke the different constructors.
 - Reflection can create an instance of a generic type.
+- Reflection can use GetMthod to invoke the specific method, static method, overloaded methods, generic method.
 
